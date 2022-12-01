@@ -58,3 +58,15 @@ Timestamp: Thu Dec 01 2022 18:10:25 GMT+0100 (Central European Standard Time)
 URL: /favicon.ico
 Timestamp: Thu Dec 01 2022 18:10:25 GMT+0100 (Central European Standard Time)
 
+URL: /
+Timestamp: Thu Dec 01 2022 18:48:58 GMT+0100 (Central European Standard Time)
+
+URL: /favicon.ico
+Timestamp: Thu Dec 01 2022 18:48:58 GMT+0100 (Central European Standard Time)
+
+URL: /documentation
+Timestamp: Thu Dec 01 2022 18:49:13 GMT+0100 (Central European Standard Time)
+
+URL: /favicon.ico
+Timestamp: Thu Dec 01 2022 18:49:13 GMT+0100 (Central European Standard Time)
+
